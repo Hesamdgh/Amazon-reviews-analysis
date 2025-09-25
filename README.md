@@ -21,6 +21,6 @@ topics from customer complaints.
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/<Hesamdgh>/amazon-reviews-bertopic-analysis.git
-cd amazon-reviews-bertopic-analysis
+git clone https://github.com/<Hesamdgh>/amazon-reviews-analysis.git
+cd amazon-reviews-analysis
 pip install -r requirements.txt
