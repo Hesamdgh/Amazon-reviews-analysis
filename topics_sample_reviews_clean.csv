@@ -1,0 +1,197 @@
+Topic,Count,Name,Representation,Topic_Label
+-1,7843,-1_coffee_taste_one_box,"['coffee', 'taste', 'one', 'box', 'flavor', 'cup', 'would', 'even', 'sugar', 'get']",Coffee Flavor Profile
+0,872,0_tea_chai_green_stash,"['tea', 'chai', 'green', 'stash', 'leaf', 'jasmine', 'cinnamon', 'taste', 'flavor', 'bag']",Tea Varieties
+1,452,1_china_treat_made_usa,"['china', 'treat', 'made', 'usa', 'dog', 'fda', 'pet', 'chicken', 'jerky', 'dogswell']",Dog Treats Made in USA
+2,417,2_candy_gift_basket_melted,"['candy', 'gift', 'basket', 'melted', 'chocolate', 'jelly', 'box', 'arrived', 'item', 'received']",Melted Chocolate Gift
+3,353,3_price_dollar_bottle_store,"['price', 'dollar', 'bottle', 'store', 'shipping', 'pay', 'grocery', 'local', 'cost', 'cheaper']",Grocery Pricing
+4,268,4_order_item_coldaid_received,"['order', 'item', 'coldaid', 'received', 'email', 'fluaid', 'shipping', 'company', 'sent', 'shipped']",Order Shipping Update
+5,265,5_coconut_water_zico_coco,"['coconut', 'water', 'zico', 'coco', 'vita', 'concentrate', 'bottle', 'plastic', 'natural', 'taste']",Coconut Water Beverage
+6,261,6_chocolate_cocoa_hot_hershey,"['chocolate', 'cocoa', 'hot', 'hershey', 'dark', 'bar', 'powder', 'milk', 'white', 'swiss']",Chocolate Varieties
+7,254,7_taste_tasted_horrible_gross,"['taste', 'tasted', 'horrible', 'gross', 'smell', 'chemical', 'bad', 'bitter', 'awful', 'sour']",Bad Taste Experience
+8,219,8_cat_food_eat_touch,"['cat', 'food', 'eat', 'touch', 'sniff', 'refused', 'walked', 'vet', 'picky', 'ate']",Picky Cat Behavior
+9,201,9_jerky_beef_oberto_piece,"['jerky', 'beef', 'oberto', 'piece', 'meat', 'strip', 'link', 'jack', 'peppered', 'teriyaki']",Beef Jerky Varieties
+10,176,10_popcorn_kernel_popper_popped,"['popcorn', 'kernel', 'popper', 'popped', 'pop', 'popping', 'hull', 'orville', 'northern', 'corn']",Popcorn Preparation
+11,172,11_sauce_curry_spicy_hot,"['sauce', 'curry', 'spicy', 'hot', 'pesto', 'chili', 'indian', 'heat', 'taco', 'basil']",Spicy Sauce Options
+12,171,12_salt_salty_sodium_pink,"['salt', 'salty', 'sodium', 'pink', 'da', 'serving', 'himalayan', 'sea', 'spice', 'pretzel']",Himalayan Salt
+13,156,13_toy_ball_treat_rope,"['toy', 'ball', 'treat', 'rope', 'minute', 'kong', 'dog', 'chewed', 'rubber', 'chewer']",Dog Chew Toys
+14,151,14_noodle_pasta_sauce_spaghetti,"['noodle', 'pasta', 'sauce', 'spaghetti', 'texture', 'thai', 'wheat', 'korean', 'ramen', 'rinsed']",Noodle Varieties
+15,147,15_peanut_butter_almond_oil,"['peanut', 'butter', 'almond', 'oil', 'jar', 'nut', 'calorie', 'walden', 'fat', 'taste']",Nut Butters
+16,129,16_soup_miso_broth_campbell,"['soup', 'miso', 'broth', 'campbell', 'vegetable', 'potato', 'chunky', 'chicken', 'tomato', 'snapper']",Soup Varieties
+17,127,17_cheese_mac_cheddar_kraft,"['cheese', 'mac', 'cheddar', 'kraft', 'annie', 'macaroni', 'pasta', 'sauce', 'broccoli', 'nacho']",Macaroni Dishes
+18,126,18_cup_keurig_ground_coffee,"['cup', 'keurig', 'ground', 'coffee', 'needle', 'brewer', 'kcups', 'problem', 'brewing', 'machine']",Coffee Brewing Issues
+19,123,19_expiration_date_expired_month,"['expiration', 'date', 'expired', 'month', 'shelf', 'expire', 'received', 'short', 'stale', 'april']",Expiration Concerns
+20,123,20_smell_dog_treat_chicken,"['smell', 'dog', 'treat', 'chicken', 'smelled', 'lickety', 'stik', 'carpet', 'comfortable', 'wad']",Dog Treat Smell
+21,119,21_bone_chew_dog_throat,"['bone', 'chew', 'dog', 'throat', 'chewer', 'piece', 'choking', 'chewed', 'swallowed', 'minute']",Dog Chew Hazards
+22,117,22_instant_coffee_cup_price,"['instant', 'coffee', 'cup', 'price', 'cent', 'starbucks', 'pay', 'bath', 'filter', 'keurig']",Instant Coffee Pricing
+23,109,23_bread_loaf_mix_yeast,"['bread', 'loaf', 'mix', 'yeast', 'flour', 'rise', 'pancake', 'waffle', 'dough', 'baking']",Baking Bread
+24,109,24_oil_truffle_olive_coconut,"['oil', 'truffle', 'olive', 'coconut', 'virgin', 'rancid', 'hair', 'white', 'smell', 'kalamata']",Rancid Oils
+25,108,25_coffee_weak_bitter_smell,"['coffee', 'weak', 'bitter', 'smell', 'aroma', 'taste', 'mountain', 'cup', 'tasted', 'horrible']",Coffee Quality Issues
+26,99,26_baby_beaba_steam_steamer,"['baby', 'beaba', 'steam', 'steamer', 'blender', 'steaming', 'blade', 'brezza', 'reservoir', 'lid']",Baby Food Steamer
+27,99,27_dented_can_damaged_dent,"['dented', 'can', 'damaged', 'dent', 'badly', 'pumpkin', 'case', 'shrink', 'severely', 'shipment']",Damaged Cans
+28,99,28_trap_moth_fly_mole,"['trap', 'moth', 'fly', 'mole', 'caught', 'tunnel', 'catch', 'flea', 'set', 'safer']",Pest Traps
+29,97,29_gluten_free_wheat_celiac,"['gluten', 'free', 'wheat', 'celiac', 'flour', 'barley', 'brm', 'disease', 'search', 'list']",Gluten-Free Options
+30,97,30_pod_senseo_machine_coffee,"['pod', 'senseo', 'machine', 'coffee', 'espresso', 'melitta', 'weak', 'fit', 'cup', 'filter']",Coffee Machine Issues
+31,96,31_mango_fruit_dried_banana,"['mango', 'fruit', 'dried', 'banana', 'strawberry', 'apricot', 'pear', 'roll', 'snack', 'mariani']",Dried Fruit Snacks
+32,95,32_whatever_eating_hungry_percent,"['whatever', 'eating', 'hungry', 'percent', 'science', 'three', 'day', 'wellness', 'always', 'around']",Eating Habits
+33,95,33_baby_son_pouch_daughter,"['baby', 'son', 'pouch', 'daughter', 'bite', 'tried', 'month', 'refused', 'kid', 'old']",Baby Food Preferences
+34,93,34_gum_chewing_stride_bear,"['gum', 'chewing', 'stride', 'bear', 'gummy', 'chew', 'trident', 'react', 'eclipse', 'flavor']",Chewing Gum Varieties
+35,84,35_cider_apple_caramel_mountain,"['cider', 'apple', 'caramel', 'mountain', 'hot', 'cup', 'sugar', 'green', 'horrible', 'grove']",Hot Apple Cider
+36,83,36_canidae_dog_formula_food,"['canidae', 'dog', 'formula', 'food', 'stool', 'buffalo', 'problem', 'bag', 'blue', 'puppy']",Dog Food Concerns
+37,81,37_cake_fondant_frosting_oreo,"['cake', 'fondant', 'frosting', 'oreo', 'icing', 'cupcake', 'tub', 'satin', 'fondarific', 'hines']",Cake Decorating Supplies
+38,81,38_msg_glutamate_yeast_monosodium,"['msg', 'glutamate', 'yeast', 'monosodium', 'ingredient', 'extract', 'autolyzed', 'list', 'hydrolyzed', 'contains']",MSG Ingredients
+39,80,39_dog_corn_beneful_meat,"['dog', 'corn', 'beneful', 'meat', 'ingredient', 'meal', 'filler', 'chicken', 'chunk', 'food']",Dog Food Ingredients
+40,79,40_seed_grow_plant_sprout,"['seed', 'grow', 'plant', 'sprout', 'herb', 'planted', 'sprouted', 'grew', 'growing', 'tomato']",Growing Plants
+41,76,41_pack_box_price_rip,"['pack', 'box', 'price', 'rip', 'description', 'misleading', 'pay', 'getting', 'total', 'one']",Misleading Pricing
+42,76,42_formula_arsenic_baby_hexane,"['formula', 'arsenic', 'baby', 'hexane', 'organic', 'martek', 'solvent', 'infant', 'dha', 'earth']",Baby Formula Safety
+43,73,43_energy_drink_hour_heart,"['energy', 'drink', 'hour', 'heart', 'caffeine', 'felt', 'boost', 'feeling', 'effect', 'jittery']",Energy Drink Effects
+44,71,44_cat_corn_meat_food,"['cat', 'corn', 'meat', 'food', 'chicken', 'kitten', 'filler', 'kibble', 'ingredient', 'eat']",Cat Food Ingredients
+45,71,45_review_negative_indus_based,"['review', 'negative', 'indus', 'based', 'delfa', 'write', 'taste', 'mouth', 'company', 'bad']",Negative Product Review
+46,67,46_cereal_oatmeal_happybellies_baby,"['cereal', 'oatmeal', 'happybellies', 'baby', 'smell', 'rancid', 'dha', 'thicken', 'probiotic', 'color']",Rancid Baby Cereal
+47,65,47_ginger_lemon_drink_sip,"['ginger', 'lemon', 'drink', 'sip', 'kili', 'hot', 'snap', 'beer', 'reed', 'packet']",Ginger Lemon Drink
+48,63,48_cappuccino_station_gas_skim,"['cappuccino', 'station', 'gas', 'skim', 'cup', 'grove', 'machine', 'instant', 'square', 'drinkable']",Instant Cappuccino
+49,62,49_fructose_agave_syrup_sugar,"['fructose', 'agave', 'syrup', 'sugar', 'hfc', 'corn', 'nectar', 'high', 'ingredient', 'cane']",Sweetener Ingredients
+50,60,50_tree_plant_bonsai_leaf,"['tree', 'plant', 'bonsai', 'leaf', 'dead', 'died', 'pot', 'branch', 'thrip', 'soil']",Dead Bonsai Plant
+51,58,51_diarrhea_dog_treat_vomiting,"['diarrhea', 'dog', 'treat', 'vomiting', 'puppy', 'vet', 'ill', 'chew', 'gave', 'giving']",Dog Illness Treats
+52,57,52_fruitcake_variety_halva_card,"['fruitcake', 'variety', 'halva', 'card', 'ordered', 'assortment', 'claxton', 'mid', 'cherry', 'flavor']",Fruitcake Assortment
+53,57,53_sampler_cup_mountain_variety,"['sampler', 'cup', 'mountain', 'variety', 'eggnog', 'vanilla', 'gingerbread', 'assortment', 'flavored', 'stapled']",Flavored Sampler Pack
+54,56,54_cracker_crunchies_broken_crumb,"['cracker', 'crunchies', 'broken', 'crumb', 'stale', 'pkg', 'cooky', 'didnt', 'animal', 'box']",Stale Animal Crackers
+55,56,55_sucralose_sweetener_honey_artificial,"['sucralose', 'sweetener', 'honey', 'artificial', 'sweetened', 'lipton', 'natural', 'sugar', 'stevia', 'splenda']",Artificial Sweeteners
+56,54,56_dressing_salad_walden_ranch,"['dressing', 'salad', 'walden', 'ranch', 'soo', 'farm', 'kraft', 'calorie', 'sauce', 'chemical']",Salad Dressing Options
+57,53,57_trans_erucic_fat_hydrogenated,"['trans', 'erucic', 'fat', 'hydrogenated', 'canola', 'acid', 'oil', 'study', 'partially', 'journal']",Trans Fat Study
+58,52,58_tuna_sardine_albacore_fish,"['tuna', 'sardine', 'albacore', 'fish', 'crown', 'solid', 'prince', 'can', 'chunk', 'polar']",Canned Fish Varieties
+59,52,59_bag_price_specfic_michael,"['bag', 'price', 'specfic', 'michael', 'totaling', 'approximately', 'per', 'pound', 'pack', 'order']",Bag Pricing Details
+60,52,60_chip_substitution_yuck_popchips,"['chip', 'substitution', 'yuck', 'popchips', 'bbq', 'fried', 'discontinued', 'weigh', 'baked', 'flavor']",Discontinued Snack Flavors
+61,50,61_cooky_cookie_ahoy_gooey,"['cooky', 'cookie', 'ahoy', 'gooey', 'biscuit', 'tang', 'chocolate', 'chewy', 'chip', 'marshmallow']",Chewy Cookie Varieties
+62,50,62_seaweed_tvp_rat_cabinet,"['seaweed', 'tvp', 'rat', 'cabinet', 'smell', 'stuff', 'hummus', 'bite', 'bad', 'repels']",Bad Smell Issues
+63,49,63_stevia_extract_xylitol_aftertaste,"['stevia', 'extract', 'xylitol', 'aftertaste', 'kal', 'sweetness', 'powder', 'bitter', 'pure', 'raw']",Sweetener Aftertaste Concerns
+64,49,64_roast_dark_coffee_french,"['roast', 'dark', 'coffee', 'french', 'burnt', 'italian', 'medium', 'bold', 'milder', 'roasted']",Coffee Roast Profiles
+65,48,65_chip_kettle_sour_cream,"['chip', 'kettle', 'sour', 'cream', 'onion', 'rancid', 'powdery', 'conglomerate', 'thinner', 'powdered']",Rancid Chip Quality
+66,47,66_hair_scalp_shampoo_conditioner,"['hair', 'scalp', 'shampoo', 'conditioner', 'greasy', 'shea', 'oil', 'mineral', 'beauty', 'clear']",Greasy Hair Products
+67,47,67_gluten_free_nana_bisquick,"['gluten', 'free', 'nana', 'bisquick', 'baking', 'cookie', 'cooky', 'cracker', 'href', 'pamela']",Gluten-Free Baking Mix
+68,47,68_mold_berry_sausage_moldy,"['mold', 'berry', 'sausage', 'moldy', 'turkey', 'jerky', 'moth', 'smelled', 'package', 'pantry']",Moldy Food Issues
+69,47,69_bottle_cap_broken_leaking,"['bottle', 'cap', 'broken', 'leaking', 'leaked', 'seal', 'mess', 'item', 'leak', 'vial']",Leaking Bottle Problems
+70,46,70_licorice_black_hard_panda,"['licorice', 'black', 'hard', 'panda', 'allsorts', 'soft', 'impossible', 'wheel', 'terrible', 'candy']",Licorice Candy Varieties
+71,46,71_effect_maltitol_stomach_diarrhea,"['effect', 'maltitol', 'stomach', 'diarrhea', 'cramp', 'cramping', 'side', 'carboxymethylcellulose', 'laxative', 'gum']",Digestive Side Effects
+72,46,72_zevia_root_soda_beer,"['zevia', 'root', 'soda', 'beer', 'cola', 'orange', 'ginger', 'juice', 'ale', 'drink']",Flavored Soda Options
+73,44,73_dog_eat_food_lucy,"['dog', 'eat', 'food', 'lucy', 'sale', 'wont', 'beckham', 'cannned', 'choosy', 'puppy']",Dog Food Preferences
+74,44,74_soda_sodastream_cola_diet,"['soda', 'sodastream', 'cola', 'diet', 'juice', 'syrup', 'stream', 'sulfites', 'drink', 'coke']",Soda Beverage Options
+75,44,75_flower_proflowers_rose_florist,"['flower', 'proflowers', 'rose', 'florist', 'woman', 'vase', 'valentine', 'rush', 'tulip', 'day']",Floral Gifts
+76,44,76_chip_hole_rat_stock,"['chip', 'hole', 'rat', 'stock', 'expired', 'fresh', 'noticeably', 'rancid', 'oxidized', 'edit']",Food Quality Concerns
+77,44,77_honey_lavender_raw_propylene,"['honey', 'lavender', 'raw', 'propylene', 'glycol', 'clover', 'manuka', 'unfiltered', 'nurse', 'page']",Honey Varieties
+78,44,78_pumpkin_hazelnut_amoretti_pie,"['pumpkin', 'hazelnut', 'amoretti', 'pie', 'syrup', 'spice', 'torani', 'cap', 'flavor', 'vanilla']",Flavor Syrups
+79,43,79_oat_oatmeal_quaker_rolled,"['oat', 'oatmeal', 'quaker', 'rolled', 'steel', 'grain', 'cut', 'whole', 'granola', 'cooking']",Oat Products
+80,40,80_lemon_lime_lemonade_zest,"['lemon', 'lime', 'lemonade', 'zest', 'pledge', 'mesquite', 'chuck', 'limey', 'spare', 'flavor']",Citrus Flavors
+81,40,81_bacon_mayonnaise_pork_nueske,"['bacon', 'mayonnaise', 'pork', 'nueske', 'smoke', 'grease', 'slab', 'sandwich', 'pan', 'baconnaise']",Bacon Condiments
+82,40,82_jamaican_flavored_description_coffee,"['jamaican', 'flavored', 'description', 'coffee', 'mountain', 'jamaica', 'blue', 'lightly', 'hurry', 'wrongly']",Jamaican Coffee
+83,40,83_stale_nonetheless_jellybean_candlewax,"['stale', 'nonetheless', 'jellybean', 'candlewax', 'definatly', 'bird', 'grossness', 'smushed', 'cha', 'staleness']",Stale Candies
+84,39,84_rice_basmati_burlap_inner,"['rice', 'basmati', 'burlap', 'inner', 'ctm', 'sack', 'plastic', 'grain', 'bag', 'siu']",Rice Packaging
+85,39,85_litter_scoop_pellet_cat,"['litter', 'scoop', 'pellet', 'cat', 'pine', 'hernia', 'clumped', 'bang', 'cleaning', 'clorox']",Cat Litter
+86,39,86_treat_dog_soft_potato,"['treat', 'dog', 'soft', 'potato', 'plato', 'duck', 'basted', 'pooch', 'pigskin', 'batch']",Dog Treats
+87,39,87_coffee_lavazza_bean_grinder,"['coffee', 'lavazza', 'bean', 'grinder', 'espresso', 'grind', 'cigarette', 'rich', 'nicaraguan', 'bag']",Coffee Grinding
+88,39,88_kettle_chip_slipped_brand,"['kettle', 'chip', 'slipped', 'brand', 'protection', 'inspection', 'thanks', 'letting', 'profit', 'bag']",Chip Packaging Issues
+89,39,89_kellogg_gmos_gmo_genetically,"['kellogg', 'gmos', 'gmo', 'genetically', 'modified', 'prop', 'organism', 'pesticide', 'kashi', 'engineered']",GMO Ingredients
+90,38,90_bone_chew_antler_dog,"['bone', 'chew', 'antler', 'dog', 'rawhide', 'hextra', 'cet', 'splintering', 'lab', 'teeth']",Dog Chew Safety
+91,38,91_nut_almond_sesame_walnut,"['nut', 'almond', 'sesame', 'walnut', 'planter', 'toffee', 'seed', 'stale', 'ordered', 'trophy']",Nut Quality Issues
+92,38,92_chip_bag_pulverized_rip,"['chip', 'bag', 'pulverized', 'rip', 'hole', 'screwed', 'bummer', 'packing', 'pringles', 'sealed']",Packaging Problems
+93,37,93_nespresso_capsule_machine_approx,"['nespresso', 'capsule', 'machine', 'approx', 'price', 'party', 'great', 'essenza', 'online', 'fortune']",Nespresso Pricing
+94,37,94_star_zero_give_coaster,"['star', 'zero', 'give', 'coaster', 'artic', 'rating', 'yuck', 'could', 'negative', 'jake']",Negative Reviews
+95,37,95_pound_weight_lb_ear,"['pound', 'weight', 'lb', 'ear', 'shipping', 'dimension', 'ounce', 'cow', 'alert', 'scale']",Shipping Weight Alerts
+96,36,96_lid_seal_jar_broken,"['lid', 'seal', 'jar', 'broken', 'arrived', 'leaking', 'container', 'pressurized', 'policy', 'leaked']",Leaking Containers
+97,35,97_lick_roll_stik_bacon,"['lick', 'roll', 'stik', 'bacon', 'ball', 'gravy', 'savory', 'deodorant', 'licking', 'dobie']",Savory Dog Treats
+98,35,98_candy_taffy_slice_worst,"['candy', 'taffy', 'slice', 'worst', 'albumin', 'turkish', 'student', 'glyceride', 'flavor', 'rock']",Candy Quality Concerns
+99,35,99_decaf_coffee_regular_hazelnut,"['decaf', 'coffee', 'regular', 'hazelnut', 'gloria', 'decaffeinated', 'jean', 'grind', 'dismayed', 'clicked']",Decaf Coffee Issues
+100,34,100_organic_kosher_certified_certification,"['organic', 'kosher', 'certified', 'certification', 'silk', 'dill', 'goji', 'authority', 'weed', 'grown']",Organic Certification
+101,34,101_coffee_stale_bag_bean,"['coffee', 'stale', 'bag', 'bean', 'aroma', 'clock', 'expired', 'expires', 'brewed', 'ground']",Stale Coffee
+102,34,102_mocha_cafe_escape_coffee,"['mocha', 'cafe', 'escape', 'coffee', 'java', 'given', 'sucralose', 'chocolate', 'white', 'cup']",Mocha Coffee Blend
+103,33,103_biscuit_baby_mouth_piece,"['biscuit', 'baby', 'mouth', 'piece', 'choked', 'gerber', 'teeth', 'broke', 'swallowed', 'toddler']",Toddler Safety Concerns
+104,32,104_tube_cup_box_messed,"['tube', 'cup', 'box', 'messed', 'coffee', 'print', 'return', 'image', 'emptying', 'packing']",Coffee Packaging Issues
+105,31,105_vanilla_alcohol_pure_powder,"['vanilla', 'alcohol', 'pure', 'powder', 'mexican', 'extract', 'mexico', 'vanillin', 'slimfast', 'revolutionary']",Vanilla Extract Products
+106,31,106_protein_hemp_shake_powder,"['protein', 'hemp', 'shake', 'powder', 'nutiva', 'seed', 'fyi', 'egg', 'bash', 'haha']",Hemp Protein Shake
+107,31,107_pretzel_burnt_protein_bag,"['pretzel', 'burnt', 'protein', 'bag', 'case', 'spelt', 'jacked', 'upon', 'featured', 'stumbled']",Burnt Pretzel Snacks
+108,31,108_hot_keurig_cocoa_chocolate,"['hot', 'keurig', 'cocoa', 'chocolate', 'grove', 'square', 'brewer', 'machine', 'setting', 'cup']",Hot Cocoa Brewer
+109,31,109_bpa_tomato_bisphenol_muir,"['bpa', 'tomato', 'bisphenol', 'muir', 'glen', 'lid', 'chef', 'lined', 'leach', 'simple']",BPA-Free Tomato Lids
+110,31,110_spray_hose_mosquito_wipe,"['spray', 'hose', 'mosquito', 'wipe', 'yard', 'squirrel', 'feeder', 'repellent', 'bug', 'bottle']",Mosquito Repellent Spray
+111,30,111_mold_wispy_white_smelled,"['mold', 'wispy', 'white', 'smelled', 'thrown', 'bag', 'rip', 'later', 'opened', 'whole']",Moldy Food Discovery
+112,30,112_cinnamon_roll_confirmed_box,"['cinnamon', 'roll', 'confirmed', 'box', 'checking', 'clove', 'mom', 'smell', 'aftertaste', 'packet']",Cinnamon Roll Aftertaste
+113,30,113_cup_ground_seal_control,"['cup', 'ground', 'seal', 'control', 'box', 'packaging', 'coffee', 'lid', 'leaking', 'positioned']",Coffee Packaging Leak
+114,30,114_chew_small_advertisement_shrink,"['chew', 'small', 'advertisement', 'shrink', 'pack', 'large', 'attention', 'photo', 'dog', 'wow']",Dog Treat Advertisement
+115,30,115_decaf_tea_forward_caffeine,"['decaf', 'tea', 'forward', 'caffeine', 'earl', 'resealable', 'grey', 'decaffeinated', 'alergic', 'caffeinated']",Decaf Tea Options
+116,29,116_potato_fried_dusting_chip,"['potato', 'fried', 'dusting', 'chip', 'pingos', 'bag', 'argument', 'sweet', 'mashed', 'trial']",Fried Potato Chips
+117,29,117_salmon_tab_roe_pull,"['salmon', 'tab', 'roe', 'pull', 'russian', 'caviar', 'sushi', 'restaurant', 'shipped', 'alaska']",Russian Caviar Shipment
+118,28,118_larabars_bar_pie_larabar,"['larabars', 'bar', 'pie', 'larabar', 'pecan', 'jocalat', 'fermented', 'cashew', 'alcohol', 'orange']",Larabar Flavor Variants
+119,28,119_catnip_toy_spray_cat,"['catnip', 'toy', 'spray', 'cat', 'cosmic', 'impotent', 'smartykat', 'respond', 'waited', 'kitten']",Catnip Toys
+120,28,120_yogurt_milk_soy_kefir,"['yogurt', 'milk', 'soy', 'kefir', 'picture', 'soymilk', 'starter', 'silk', 'temperature', 'malt']",Yogurt Varieties
+121,28,121_chick_baby_recipe_gobble,"['chick', 'baby', 'recipe', 'gobble', 'chicken', 'salmon', 'happybaby', 'daughter', 'happy', 'plum']",Baby Food Recipes
+122,27,122_microwave_pop_popcorn_grease,"['microwave', 'pop', 'popcorn', 'grease', 'bag', 'bowl', 'evidently', 'cook', 'popped', 'popping']",Popcorn Preparation
+123,27,123_altoids_spearmint_peppermint_mint,"['altoids', 'spearmint', 'peppermint', 'mint', 'pepper', 'bleagh', 'pouch', 'doesnt', 'wintergreen', 'please']",Mint Flavors
+124,27,124_margarita_crystal_mojito_pitcher,"['margarita', 'crystal', 'mojito', 'pitcher', 'light', 'lime', 'mocktails', 'mix', 'tequila', 'drink']",Cocktail Mixes
+125,27,125_sleep_valerian_germ_chia,"['sleep', 'valerian', 'germ', 'chia', 'insomnia', 'sipped', 'wheat', 'show', 'earthy', 'seed']",Sleep Aids
+126,26,126_steak_samsclub_meat_omaha,"['steak', 'samsclub', 'meat', 'omaha', 'knife', 'comparing', 'moist', 'sirloin', 'tender', 'deliver']",Steak Comparison
+127,26,127_bully_stick_thick_thickness,"['bully', 'stick', 'thick', 'thickness', 'odor', 'pup', 'thin', 'braided', 'thickest', 'thicker']",Dog Chews
+128,26,128_tomato_marzano_san_dop,"['tomato', 'marzano', 'san', 'dop', 'italian', 'italy', 'cento', 'grown', 'canned', 'certified']",Canned Tomatoes
+129,26,129_mold_jerky_piece_moldy,"['mold', 'jerky', 'piece', 'moldy', 'doubtable', 'decides', 'jack', 'link', 'eight', 'darker']",Moldy Jerky
+130,26,130_torilla_preach_gob_practicing,"['torilla', 'preach', 'gob', 'practicing', 'dip', 'suffice', 'chip', 'tostitos', 'tolerable', 'desperate']",Tortilla Chips
+131,26,131_cereal_teddy_graham_drywall,"['cereal', 'teddy', 'graham', 'drywall', 'cardboard', 'marshmallow', 'crunchy', 'pepperoni', 'flake', 'tends']",Cereal Ingredients
+132,26,132_skin_acne_dove_soap,"['skin', 'acne', 'dove', 'soap', 'wash', 'face', 'chemical', 'oily', 'sensitive', 'rash']",Acne Skin Care
+133,26,133_vanilla_caramel_starbucks_coffee,"['vanilla', 'caramel', 'starbucks', 'coffee', 'latte', 'french', 'via', 'colombian', 'artificial', 'taste']",Coffee Flavors
+134,26,134_bar_expiration_date_stale,"['bar', 'expiration', 'date', 'stale', 'larabars', 'crumbly', 'charged', 'granola', 'moist', 'petrified']",Stale Snack Issues
+135,25,135_splenda_diet_sweetener_non,"['splenda', 'diet', 'sweetener', 'non', 'artificial', 'squinted', 'soda', 'concentrated', 'ick', 'ingest']",Artificial Sweetener Concerns
+136,25,136_mushroom_porcini_plate_ceramic,"['mushroom', 'porcini', 'plate', 'ceramic', 'escargot', 'dish', 'stoneware', 'scallop', 'stuffed', 'snail']",Gourmet Mushroom Dish
+137,25,137_cooky_omaha_six_steak,"['cooky', 'omaha', 'six', 'steak', 'arrived', 'thawed', 'protect', 'condition', 'crumb', 'ordered']",Steak Delivery Condition
+138,25,138_hill_vet_evo_foolishness,"['hill', 'vet', 'evo', 'foolishness', 'feather', 'unwanted', 'organ', 'outrageous', 'rated', 'school']",Unwanted School Policies
+139,24,139_fiber_gram_information_nutrition,"['fiber', 'gram', 'information', 'nutrition', 'per', 'serving', 'testing', 'show', 'website', 'murray']",Nutrition Fiber Information
+140,24,140_riduclous_tastless_thru_hassle,"['riduclous', 'tastless', 'thru', 'hassle', 'thrown', 'bother', 'crap', 'anyway', 'dont', 'stale']",Stale Food Complaints
+141,24,141_bug_insect_beetle_crawling,"['bug', 'insect', 'beetle', 'crawling', 'pantry', 'mccanns', 'live', 'tree', 'seed', 'leaf']",Pantry Bug Infestation
+142,23,142_mega_href_http_www,"['mega', 'href', 'http', 'www', 'gyro', 'com', 'pack', 'siy', 'frozen', 'humidity']",Frozen Product Packaging
+143,23,143_bar_cliff_foil_box,"['bar', 'cliff', 'foil', 'box', 'mini', 'individually', 'toblerone', 'buck', 'total', 'pack']",Individually Wrapped Snacks
+144,23,144_gelatin_gerber_dha_pork,"['gelatin', 'gerber', 'dha', 'pork', 'vegetarian', 'halal', 'kosher', 'regime', 'answered', 'baby']",Baby Food Dietary Concerns
+145,23,145_science_tiki_diet_wet,"['science', 'tiki', 'diet', 'wet', 'junk', 'evo', 'kitten', 'tonga', 'food', 'cat']",Cat Food Quality Issues
+146,22,146_sugar_meringue_turbinado_lingonberry,"['sugar', 'meringue', 'turbinado', 'lingonberry', 'added', 'sweetener', 'former', 'pie', 'crystal', 'sweet']",Sweetener Ingredients
+147,22,147_rockstar_juiced_juice_energy,"['rockstar', 'juiced', 'juice', 'energy', 'drink', 'formula', 'new', 'goodbye', 'crap', 'change']",Energy Drink Changes
+148,22,148_popchips_vinegar_pepper_salt,"['popchips', 'vinegar', 'pepper', 'salt', 'blecht', 'lol', 'jalapeno', 'mouth', 'hallow', 'burn']",Spicy Snack Reactions
+149,22,149_crud_junk_feast_cat,"['crud', 'junk', 'feast', 'cat', 'fancy', 'shame', 'brick', 'subjected', 'carrion', 'spurn']",Cat Food Waste
+150,22,150_dog_picky_admittedly_pick,"['dog', 'picky', 'admittedly', 'pick', 'touch', 'donating', 'idea', 'would', 'consumate', 'necessarily']",Dog Donation Ideas
+151,21,151_gardening_luck_compost_pungent,"['gardening', 'luck', 'compost', 'pungent', 'swill', 'press', 'earl', 'grey', 'ill', 'swallow']",Composting Challenges
+152,21,152_link_jack_terriyaki_beef,"['link', 'jack', 'terriyaki', 'beef', 'subscriber', 'jerky', 'opened', 'pack', 'shopped', 'box']",Jerky Subscription Box
+153,21,153_canidae_formula_change_al,"['canidae', 'formula', 'change', 'al', 'homework', 'symptom', 'changed', 'spot', 'dog', 'vomiting']",Dog Vomiting Symptoms
+154,21,154_clam_chowder_snow_england,"['clam', 'chowder', 'snow', 'england', 'bumble', 'bee', 'modified', 'manhattan', 'new', 'condensed']",New England Clam Chowder
+155,21,155_hazelnut_gloria_jean_bitter,"['hazelnut', 'gloria', 'jean', 'bitter', 'flavored', 'coffee', 'enjoy', 'flavor', 'typically', 'brewed']",Flavored Coffee Preferences
+156,21,156_vegan_vegetarian_bite_chilli,"['vegan', 'vegetarian', 'bite', 'chilli', 'meat', 'jaipur', 'kay', 'protein', 'aweful', 'grows']",Vegan Protein Options
+157,21,157_allergy_poultry_eater_lamb,"['allergy', 'poultry', 'eater', 'lamb', 'allergic', 'switch', 'dog', 'drain', 'wheat', 'higher']",Dog Food Allergies
+158,21,158_bag_mouse_box_mousie,"['bag', 'mouse', 'box', 'mousie', 'idk', 'spilt', 'paper', 'airplane', 'picture', 'open']",Mouse Trap Mishap
+159,21,159_phosphate_dipotassium_soybean_alkali,"['phosphate', 'dipotassium', 'soybean', 'alkali', 'ingredient', 'mono', 'wheat', 'lecithin', 'cornstarch', 'diglycerides']",Food Ingredient List
+160,21,160_bone_teething_nylabone_easily,"['bone', 'teething', 'nylabone', 'easily', 'destroyed', 'plastic', 'nylabones', 'rawhide', 'original', 'puppy']",Puppy Chew Toys
+161,21,161_greenies_greenie_dog_deadly,"['greenies', 'greenie', 'dog', 'deadly', 'compressed', 'died', 'poop', 'busy', 'giving', 'obstructed']",Dangerous Dog Treats
+162,20,162_hazelnut_sophisticated_impress_cloyingly,"['hazelnut', 'sophisticated', 'impress', 'cloyingly', 'unexpected', 'appreciated', 'men', 'delicate', 'lady', 'fatty']",Sophisticated Hazelnut Flavor
+163,20,163_crumb_cooky_crumby_crumbiness,"['crumb', 'cooky', 'crumby', 'crumbiness', 'crumbles', 'cookie', 'ordering', 'expires', 'biscuit', 'fragile']",Cookie Crumb Issues
+164,20,164_canned_chx_cat_grain,"['canned', 'chx', 'cat', 'grain', 'wellness', 'can', 'slice', 'shelter', 'dry', 'slop']",Cat Food Varieties
+165,20,165_meat_cancer_sirloin_manure,"['meat', 'cancer', 'sirloin', 'manure', 'flavoring', 'necessary', 'caramel', 'including', 'interview', 'joanne']",Meat Flavoring Concerns
+166,19,166_aspca_touch_wound_pricey,"['aspca', 'touch', 'wound', 'pricey', 'gravy', 'alot', 'giving', 'cat', 'grain', 'pretty']",Cat Food Donations
+167,19,167_stronger_nothing_seep_dieter,"['stronger', 'nothing', 'seep', 'dieter', 'tea', 'happened', 'measured', 'cranberry', 'period', 'talking']",Diet and Health
+168,19,168_chip_grease_greasy_saturated,"['chip', 'grease', 'greasy', 'saturated', 'bottom', 'nasty', 'soaked', 'trans', 'spilled', 'fat']",Greasy Chip Issues
+169,19,169_menadione_toxicity_banned_substance,"['menadione', 'toxicity', 'banned', 'substance', 'toxic', 'pet', 'chiou', 'oxidative', 'watchdog', 'regulatory']",Toxicity Regulations
+170,19,170_rooibos_pressure_licorice_blood,"['rooibos', 'pressure', 'licorice', 'blood', 'tea', 'doctor', 'stash', 'warning', 'introduction', 'hearing']",Herbal Tea Warnings
+171,19,171_dog_canidae_change_formula,"['dog', 'canidae', 'change', 'formula', 'greta', 'recall', 'diamond', 'food', 'fish', 'gulf']",Dog Food Recall
+172,18,172_cereal_priced_price_box,"['cereal', 'priced', 'price', 'box', 'increasing', 'grocery', 'munch', 'flake', 'nana', 'reasonably']",Cereal Price Increases
+173,18,173_madhouse_defintely_munchies_crunch,"['madhouse', 'defintely', 'munchies', 'crunch', 'cookie', 'oily', 'greasy', 'palm', 'kettle', 'burnt']",Greasy Snack Problems
+174,18,174_puppy_stool_bully_moo,"['puppy', 'stool', 'bully', 'moo', 'vet', 'diarrhea', 'wellness', 'lily', 'week', 'developed']",Puppy Health Issues
+175,18,175_seasame_bragging_triangle_sister,"['seasame', 'bragging', 'triangle', 'sister', 'round', 'oil', 'odor', 'compared', 'word', 'yet']",Sesame Oil Comparison
+176,18,176_coconut_milk_cream_creamy,"['coconut', 'milk', 'cream', 'creamy', 'thai', 'can', 'kitchen', 'chaokoh', 'case', 'odd']",Coconut Milk Products
+177,18,177_soda_homebrew_bottle_tank,"['soda', 'homebrew', 'bottle', 'tank', 'carbonator', 'syrup', 'regulator', 'rig', 'suspension', 'sodastream']",Homebrew Soda Equipment
+178,18,178_smell_disposed_spoiled_variety,"['smell', 'disposed', 'spoiled', 'variety', 'horrific', 'instore', 'nauseating', 'refuse', 'inexpensive', 'horrid']",Spoiled Food Smells
+179,18,179_diet_science_orijen_cat,"['diet', 'science', 'orijen', 'cat', 'meal', 'byproduct', 'filler', 'chicken', 'grain', 'feline']",Feline Diet Ingredients
+180,17,180_bar_more_calorie_caraeml,"['bar', 'more', 'calorie', 'caraeml', 'peaceworks', 'palestinian', 'foundation', 'luna', 'bite', 'ineffective']",Caloric Snack Concerns
+181,17,181_dented_pillow_torn_dent,"['dented', 'pillow', 'torn', 'dent', 'can', 'ups', 'return', 'case', 'flat', 'straighten']",Return Policy Issues
+182,17,182_rice_forbidden_fortune_china,"['rice', 'forbidden', 'fortune', 'china', 'bran', 'red', 'gran', 'milled', 'costco', 'color']",Rice Varieties and Costs
+183,17,183_plastic_zico_bottle_case,"['plastic', 'zico', 'bottle', 'case', 'sip', 'zicos', 'concentrate', 'tetrapak', 'concerntrate', 'tetra']",Plastic Bottle Concerns
+184,17,184_donated_rejected_shelter_cat,"['donated', 'rejected', 'shelter', 'cat', 'current', 'humane', 'society', 'starve', 'pantry', 'breeder']",Shelter Cat Issues
+185,17,185_recall_recalled_salmonella_diamond,"['recall', 'recalled', 'salmonella', 'diamond', 'involved', 'bag', 'mysterious', 'code', 'food', 'upc']",Food Safety Recall
+186,17,186_jerky_purchace_teryaki_expires,"['jerky', 'purchace', 'teryaki', 'expires', 'nasty', 'mega', 'mounth', 'expire', 'crunchy', 'expiration']",Jerky Expiration Concerns
+187,16,187_donut_glazed_shop_chocolate,"['donut', 'glazed', 'shop', 'chocolate', 'doughnut', 'coffee', 'glaze', 'vibration', 'bonafide', 'blasted']",Donut Shop Vibes
+188,16,188_crab_lobster_bisque_harbor,"['crab', 'lobster', 'bisque', 'harbor', 'lump', 'mush', 'shell', 'salty', 'soup', 'cake']",Seafood Soup Varieties
+189,16,189_genetically_birch_modified_xylitol,"['genetically', 'birch', 'modified', 'xylitol', 'canola', 'lottery', 'corn', 'safflower', 'ignorant', 'belongs']",Genetically Modified Ingredients
+190,16,190_star_maid_krusteaz_rating,"['star', 'maid', 'krusteaz', 'rating', 'sun', 'ship', 'relate', 'rate', 'review', 'expiring']",Product Rating Review
+191,16,191_caviar_salmon_keta_roe,"['caviar', 'salmon', 'keta', 'roe', 'malossol', 'mushy', 'egg', 'nonsense', 'alive', 'resembling']",Caviar Quality Issues
+192,16,192_nettle_unbearable_pellet_distinct,"['nettle', 'unbearable', 'pellet', 'distinct', 'reminded', 'fishy', 'somewhere', 'particular', 'fish', 'loose']",Fishy Pellet Concerns
+193,16,193_limpest_string_squeezing_tag,"['limpest', 'string', 'squeezing', 'tag', 'lame', 'tea', 'hip', 'rose', 'apart', 'fall']",Limp Tea Quality
+194,15,194_cashew_emerald_sea_pepper,"['cashew', 'emerald', 'sea', 'pepper', 'salt', 'harmony', 'thsi', 'sheep', 'nut', 'shriveled']",Culinary Ingredients
