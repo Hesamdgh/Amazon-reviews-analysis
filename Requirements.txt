@@ -1,0 +1,10 @@
+Required technologies and libraries
+-------------------------
+
+** pandas
+** nltk
+** bertopic
+** scikit-learn
+** openai
+** plotly
+** sqlite3-bro
